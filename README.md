@@ -37,24 +37,6 @@ An intelligent customer support platform built using **Flask**, **LangChain**, *
 
 ---
 
-# 📊 Dashboard
-
-<p align="center">
-
-<img src="Dashboard.jpg" width="1000">
-
-</p>
-
-The dashboard provides
-
-- AI-powered ticket search
-- Business KPIs
-- Customer support analytics
-- Refund approval queue
-- Modern ChatGPT/Copilot-inspired interface
-
----
-
 # 🔍 Smart Ticket Search
 
 <p align="center">
