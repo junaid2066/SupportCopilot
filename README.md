@@ -1,5 +1,3 @@
-# SupportCopilot
-
 # E-commerce Support Copilot and Refund Portal
 
 A Flask application for searching customer-support tickets, retrieving similar historical cases, generating AI-assisted responses, and recommending refunds.
