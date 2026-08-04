@@ -27,7 +27,7 @@ An intelligent customer support platform built using **Flask**, **LangChain**, *
 
 <p align="center">
 
-<a href="video demo.mp4">
+<a href="demo.gif">
 
 <img src="Dashboard.jpg" width="1000">
 
