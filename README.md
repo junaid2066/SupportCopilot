@@ -136,50 +136,6 @@ The AI workspace provides
 
 ---
 
-# 🔄 Workflow
-
-```text
-Search Ticket
-
-      │
-
-      ▼
-
-Retrieve Ticket
-
-      │
-
-      ▼
-
-Retrieve Similar Historical Cases
-
-      │
-
-      ▼
-
-Predict Refund Eligibility
-
-      │
-
-      ▼
-
-Generate AI Response
-
-      │
-
-      ▼
-
-Human Approval (if required)
-
-      │
-
-      ▼
-
-Customer Response
-```
-
----
-
 # 🛠️ Technology Stack
 
 | Component | Technology |
@@ -193,54 +149,6 @@ Customer Response
 | UI | Bootstrap 5 |
 | LLM | Ollama / OpenAI |
 | Language | Python |
-
----
-
-# 📂 Project Structure
-
-```text
-SupportCopilot/
-
-│
-
-├── app.py
-
-├── config.py
-
-├── data_service.py
-
-├── model_service.py
-
-├── agent_service.py
-
-│
-
-├── dataset/
-
-│
-
-├── models/
-
-│
-
-├── notebooks/
-
-│
-
-├── templates/
-
-│
-
-├── static/
-
-│
-
-├── requirements.txt
-
-│
-
-└── README.md
-```
 
 ---
 
